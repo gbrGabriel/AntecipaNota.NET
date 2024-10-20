@@ -1,0 +1,6 @@
+@AntecipaNotaNET.Presentation_HostAddress = http://localhost:5273
+
+GET {{AntecipaNotaNET.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
